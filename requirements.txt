@@ -1,0 +1,8 @@
+flask
+flask-cors
+pennylane
+numpy
+scikit-learn
+joblib
+pyyaml
+python-dotenv

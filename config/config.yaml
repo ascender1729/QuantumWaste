@@ -1,0 +1,15 @@
+app:
+  debug: true
+  host: "0.0.0.0"
+  port: 5000
+
+quantum:
+  num_qubits: 4
+  num_layers: 2
+
+polymer:
+  min_length: 5
+  max_length: 100
+
+model:
+  path: "src/backend/models/recycling_model.joblib"
