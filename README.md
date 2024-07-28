@@ -99,7 +99,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/QuantumWaste.git
+   git clone https://github.com/ascender1729/QuantumWaste.git
    cd QuantumWaste
    ```
 
