@@ -211,3 +211,38 @@ We welcome contributions to QuantumWaste! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
+
+## 📖 Citation
+
+If you use this project in your research or work, please cite it as:
+
+### BibTeX
+```bibtex
+@software{dubasi2024_quantumwaste,
+  author       = {Dubasi, Pavan Kumar},
+  title        = {QuantumWaste: Quantum-Inspired Molecular Recycling Simulator},
+  year         = {2024},
+  publisher    = {GitHub},
+  url          = {https://github.com/ascender1729/QuantumWaste}
+}
+```
+
+### APA Format
+Dubasi, P. K. (2024). *QuantumWaste: Quantum-Inspired Molecular Recycling Simulator*. GitHub. https://github.com/ascender1729/QuantumWaste
+
+### IEEE Format
+P. K. Dubasi, "QuantumWaste: Quantum-Inspired Molecular Recycling Simulator," GitHub, 2024. [Online]. Available: https://github.com/ascender1729/QuantumWaste
+
+---
+
+## 👤 Author
+
+**Pavan Kumar Dubasi**  
+Principal AI Consultant | VibeTensor
+
+- 🌐 Website: [dubasipavankumar.com](https://dubasipavankumar.com)
+- 💼 LinkedIn: [in/im-pavankumar](https://linkedin.com/in/im-pavankumar)
+- 🐦 Twitter: [@the_complex_one](https://twitter.com/the_complex_one)
+- 📧 Email: pavan.dubasi2024@gmail.com
+- 🆔 ORCID: [0009-0006-1060-4598](https://orcid.org/0009-0006-1060-4598)
